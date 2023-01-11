@@ -5,6 +5,10 @@
 1. Clone the BhaiKhata Backend repository
 2. Run the command python manage.py runserver to run the backend on the server.
 
+### [Link](https://github.com/shivam7374/BahiKhata-Frontend) to BhaiKhata Frontend
+
+### [Link](https://docs.google.com/document/d/1iu6_CggWeDP6K82gglrFUcfRqFFB63vZptDkORlj7BE/edit?usp=sharing) to google doc
+
 ## Technologies Used
 
 ### Backend: Django
